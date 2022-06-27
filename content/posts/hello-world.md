@@ -12,7 +12,7 @@ date: 2022-06-27T00:00:00+00:00
 using namespace std;
 
 int main() {
-    cout &lt;&lt; "Hello, C++!" &lt;&lt; endl;
+    cout << "Hello, C++!" << endl;
     return 0;
 }
 ```
