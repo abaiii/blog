@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
-date: 2022-06-27T10:31:44+08:00
-draft: true
+date: 2022-06-27T00:00:00+00:00
+
 ---
 
+## Hello, Hugo!
