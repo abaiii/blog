@@ -1,7 +1,7 @@
 baseurl: "https://blog.francie.cc"
-languageCode: "zh-cn"
+languageCode: "zh-CN"
 title: "Francie's Blog + Groceries"
-theme: "papermod"
+theme: "PaperMod"
 paginate: 7
 description: "A place where Francie writes."
 author: "Francie Jiang"
