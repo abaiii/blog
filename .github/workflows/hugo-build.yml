@@ -3,7 +3,7 @@ name: github pages hugo build
 on:
   push:
     branches:
-      - blog-upd  # Set a branch to deploy
+      - blog-public  # Set a branch to deploy
   pull_request:
 
 jobs:
