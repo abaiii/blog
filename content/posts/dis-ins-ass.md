@@ -38,7 +38,7 @@ date: 2022-07-25T00:00:00+08:00
 
 <center>
 
-![Alt](usePhysicalDisks.png)
+![Alt](/usePhysicalDisks.png)
 <small>图 1. 各位看到了吧 就是这个东西（</small>
 
 </center>
