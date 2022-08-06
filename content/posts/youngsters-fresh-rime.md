@@ -12,7 +12,7 @@ date: 2022-08-06T11:19:51+08:00
 
 暑假的最后一天（没错啦 我暑假 8 月 7 号就结束啦 我们高中真棒呀！），在看到了有一帮人在用 `RIME` 打字以后，我也决定去搞一个（
 
-> 为您省流：如果以下的配置你看着喜欢，可以直接去 [这里](https://github.com/franci-e/misc/RRime/) 下载配置文件哦（
+> 为您省流：如果以下的配置你看着喜欢，可以直接去 [这里](https://github.com/franci-e/misc/tree/main/RRime/) 下载配置文件哦（
 
 ## RIME 的字体
 应该是默认配置的问题吧，在下载了 `weasel` 以后，UI 的默认字体就是微软雅黑。不是说这个字体难看吧，就是... 下都下了，能自定义一下的东西肯定要自定义一下啦。而且，其实我也更喜欢用 **霞鹜新晰黑** (LXGW New Clear Gothic, [`LXGW` 老师的 repo 在这里](https://github.com/lxgw/LxgwNewClearGothic)) 一点。
