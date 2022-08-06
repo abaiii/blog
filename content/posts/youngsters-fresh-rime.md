@@ -102,7 +102,8 @@ patch:
 
 ## 参考文献
 [Lufs X](https://isteed.cc/) 老师的 [好用好看好玩的输入法 —— 鼠须管配置使用](https://blog.isteed.cc/post/squirrel-customization-2022/), Accessed Aug 6, 2022.
+
 [ahxxm](https://github.com/ahxxm) 老师的 [rime_config](https://github.com/ahxxm/rime_config) `repo`
 
-[^onlyOneFont]: 也有可能是我看错了，或者是我太菜了不知道怎么改（
+<!-- [^onlyOneFont]: 也有可能是我看错了，或者是我太菜了不知道怎么改（ -->
 
