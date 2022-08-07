@@ -98,7 +98,7 @@ patch:
 ```
 ## 结束！
 看一下最终的成果吧：
-![Final Picture](rimeSettings.png)
+![Final Picture](/rimeSettings.png)
 
 ## 参考文献
 [Lufs X](https://isteed.cc/) 老师的 [好用好看好玩的输入法 —— 鼠须管配置使用](https://blog.isteed.cc/post/squirrel-customization-2022/), Accessed Aug 6, 2022.
