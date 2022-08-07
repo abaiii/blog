@@ -5,10 +5,22 @@ theme: "PaperMod"
 paginate: 7
 description: "A place where Francie writes."
 author: "Francie Jiang"
-ShowReadingTime: true
-ShowCodeCopyButtons: true
+
 tocopen: true
 copyright: "&copy; 2022 - Now Francie Jiang Property Foundation. All rights reserved. If not specified, all of the contents published in this site are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+
+params:
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  comments: true
+  ShowToc: true
+  TocOpen: true
+
+output:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 markup:
   goldmark:
